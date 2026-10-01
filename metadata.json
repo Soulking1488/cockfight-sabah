@@ -1,0 +1,6 @@
+{
+  "name": "Cockfight",
+  "description": "UI prototype concept of Cockfight gambling platform featuring real-time video streaming, match cards, live betting odds, and secure wallet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
